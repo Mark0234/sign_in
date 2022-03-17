@@ -1,0 +1,15 @@
+.btn_sign {
+    background: rgb(20, 176, 180);
+    background: linear-gradient(
+        90deg,
+        rgba(20, 176, 180, 1) 16%,
+        rgba(170, 29, 148, 1) 50%,
+        rgba(49, 89, 181, 1) 93%
+    );
+}
+.form-bg {
+    background: url(/1616556630_1-p-rozovo-goluboi-fon-3.jpg);
+    border-radius: 12%;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4),
+        inset 0 0 1px rgba(150, 150, 255, 0.9);
+}
